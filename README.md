@@ -1,9 +1,7 @@
 # Predicting-Employee-Attrition-in-HR-Analytics
 Predicting Employee Attrition in HR Analytics
 Eliana Alon | Lauren Furman | Joseph Aytch | Michelle Valencia 
-
-DSC450 Applied Data Science 
-Fall 2024 
+ 
 Domain:
 
 The focus on employee attrition in HR analytics is to evaluate various factors influencing attrition rates to provide a comprehensive understanding of why employees leave and identify areas for improvement in retention strategies.
